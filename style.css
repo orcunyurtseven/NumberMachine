@@ -1,0 +1,28 @@
+#baslik1 {
+    margin-top: 90px;
+    text-align: center;
+    padding: 15px;
+    color:rgb(250, 26, 26);
+}
+
+.header-wrapper {
+    padding-top: 12px;
+    margin: 0px;
+}
+
+.button-wrapper {
+    text-align: center;
+    background-color: rgb(247, 243, 14);
+    border-radius: 5px;
+}
+
+.upper-button {
+    size: 150px;
+}
+
+.label-wrapper {
+    text-align: center;
+    padding: 52px;
+    color: rgb(255, 143, 7);
+    background-color: rgb(4, 37, 26);
+}
